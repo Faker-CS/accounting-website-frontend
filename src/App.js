@@ -20,6 +20,7 @@ import LoadingSpinner from './components/ui/LoadingSpinner';
 // Import CSS from template (you'll need to copy these from the template)
 // import './assets/css/core.css';
 // import './assets/css/theme-default.css';
+import './assets/css/demo.css';
 
 function App() {
   return (
